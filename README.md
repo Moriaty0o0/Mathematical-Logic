@@ -22,19 +22,18 @@
 </tr>
 </table>
 
-*****
+-
 
-**[Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)** by [Karl Crary](https://www.cs.cmu.edu/~crary/)
+|学校 |课程 |授课 |
+|:-----:|:----:|:----:|
+| Oregon  | [Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html) |  |
+|复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
+| 南京大学  | <u>[Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
+|北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
 
-[<u>Oregon Programming Languages Summer School</u> | University of Oregon](https://www.cs.uoregon.edu/research/summerschool/archives.html)
+-
 
-<u>[Mathematical Logic at Fudan](http://logic.fudan.edu.cn/)</u>  复旦大学哲学学院『数理逻辑』
-
-**<u>[数理逻辑（Mathematical Logic）](https://yiqinnju.github.io/course/MathLogic/MathLogic.html)</u>** 南京大学 宋方敏 & [秦逸](https://yiqinnju.github.io/)
-
-[Xixi Logic](https://www.xixilogic.org/) Seminars is run by the logic group at Zhejiang University. 
-*****
-<u>[Software Foundations](https://softwarefoundations.cis.upenn.edu)</u> & Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』:
+[Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
 <table>
 <tr>
 <th><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html">《逻辑基础》</a></th>
@@ -54,4 +53,6 @@
 
 [FTP](http://okmij.org/ftp/)
 
+**[Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)** by [Karl Crary](https://www.cs.cmu.edu/~crary/)
 
+[Xixi Logic](https://www.xixilogic.org/) Seminars is run by the logic group at Zhejiang University. 
