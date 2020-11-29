@@ -1,4 +1,20 @@
 # Mathematical-Logic
+
+Raymond M. Smullyan (1919 – 2017):
+
+<table>
+<tr>
+<th><a>A Beginner's Guide to Mathematical Logic</a></th>
+<th><a>A Beginner's Further Guide to Mathematical Logic</a></th>
+</tr>
+<tr>
+<td><a><center><img width="110px" src="./images/Guide.png"/></center></a></td>
+<td><a><center><img width="115px" src="./images/Further.png"/></center></a></td>
+</tr>
+</table>
+
+******
+
 [Logic Matters](https://www.logicmatters.net) :
 - Peter Smith's [Logic Matters blog](https://www.logicmatters.net/blogfront)
 - [An Introduction to Formal Logic](https://www.logicmatters.net/ifl)
@@ -10,6 +26,8 @@
 - [LaTeX for Logicians](https://www.logicmatters.net/latex-for-logicians)
 
 **[Handbook of the History of Logic](https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic)**
+
+**[The Bulletin of Symbolic Logic](https://dblp.org/db/journals/bsl/index.html)**
 
 *****
 [An Open-Source, Collaborative Logic Text](https://openlogicproject.org) & <u>[**PDFs**](https://builds.openlogicproject.org)</u>：
@@ -34,6 +52,7 @@
 -
 
 [Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
+
 <table>
 <tr>
 <th><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html">《逻辑基础》</a></th>
@@ -45,14 +64,43 @@
 <td><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html"><img width="150px" src="./images/第一卷.png"/></a></td>
 <td><a href="https://coq-zh.github.io/SF-zh/plf-current/index.html"><img width="150px" src="./images/第二卷.png"/></a></td>
 <td><a href="https://coq-zh.github.io/SF-zh/vfa-current/index.html"><img width="150px" src="./images/第三卷.png"/></a></td>
-<td><a href="https://coq-zh.github.io/SF-zh/qc-current/index.html"><img width="150px" src="./images/第四卷.png"/></a></td>
+<td><center><a href="https://coq-zh.github.io/SF-zh/qc-current/index.html"><img width="150px" src="./images/第四卷.png"/></center></a></td>
+</tr>
+</table>
+
+******
+<table>
+<tr>
+<th><a>郝兆宽、杨睿之、杨跃</a></th>
+<th><a>王浩（1921 — 1995）</a></th>
+<th><a>冯琦</a></th>
+<th><a>陆钟万</a></th>
+<th><a>陆汝钤</a></th>
+<th><a>张家龙</a></th>
+<th><a>(译)张卜天</a></th>
+</tr>
+<tr>
+<td><a><img width="115px" src="./images/数理逻辑证明及其限度.png"/></a></td>
+<td><a><img width="100px" src="./images/数理逻辑通俗讲话.png"/></a></td>
+<td><a><img width="115px" src="./images/数理逻辑导引.png"/></a></td>
+<td><a><img width="115px" src="./images/面向计算机科学的数理逻辑.png"/></a></td>
+<td><a><img width="80px" src="./images/陆汝钤.png"/></a></td>
+<td><a><img width="100px" src="./images/数理逻辑发展史.jpg"/></a></td>
+<td><a><img width="100px" src="./images/逻辑的引擎.jpg"/></a></td>
 </tr>
 </table>
 
 *****
+
+<u>On the Unusual Effectiveness of Logic in Computer Science</u>   
 
 [FTP](http://okmij.org/ftp/)
 
 **[Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)** by [Karl Crary](https://www.cs.cmu.edu/~crary/)
 
 [Xixi Logic](https://www.xixilogic.org/) Seminars is run by the logic group at Zhejiang University. 
+
+<u>The Road to Modern Logic - an interpretation</u>     |     Jose Ferreiros 
+
+
+
