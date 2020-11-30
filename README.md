@@ -8,8 +8,8 @@ Raymond M. Smullyan (1919 – 2017):
 <th><a>A Beginner's Further Guide to Mathematical Logic</a></th>
 </tr>
 <tr>
-<td><a><center><img width="110px" src="./images/Guide.png"/></center></a></td>
-<td><a><center><img width="115px" src="./images/Further.png"/></center></a></td>
+<td><a><div align=center><img width="110px" src="./images/Guide.png"/></div></a></td>
+<td><a><div align=center><img width="115px" src="./images/Further.png"/></div></a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Raymond M. Smullyan (1919 – 2017):
 <td><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html"><img width="150px" src="./images/第一卷.png"/></a></td>
 <td><a href="https://coq-zh.github.io/SF-zh/plf-current/index.html"><img width="150px" src="./images/第二卷.png"/></a></td>
 <td><a href="https://coq-zh.github.io/SF-zh/vfa-current/index.html"><img width="150px" src="./images/第三卷.png"/></a></td>
-<td><center><a href="https://coq-zh.github.io/SF-zh/qc-current/index.html"><img width="150px" src="./images/第四卷.png"/></center></a></td>
+<td><div align=center><a href="https://coq-zh.github.io/SF-zh/qc-current/index.html"><img width="150px" src="./images/第四卷.png"/></div></a></td>
 </tr>
 </table>
 
