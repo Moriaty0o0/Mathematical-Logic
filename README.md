@@ -68,6 +68,17 @@ Raymond M. Smullyan (1919 – 2017):
 </tr>
 </table>
 
+<table>
+<tr>
+<th><a href="https://plfa.github.io/">Programming Language Foundations in Agda</a></th>
+<th><a href="https://agda-zh.github.io/PLFA-zh/">编程语言基础:Agda语言描述</a></th>
+</tr>
+<tr>
+<td><a href="https://plfa.github.io/"><div align=center><img width="100px" src="./images/PhilipWadler.jpg"></div></a></td>
+<td><a>https://agda-zh.github.io/PLFA-zh/</a></td>
+</tr>
+</table>
+
 ******
 <table>
 <tr>
@@ -92,11 +103,13 @@ Raymond M. Smullyan (1919 – 2017):
 
 *****
 
-<u>On the Unusual Effectiveness of Logic in Computer Science</u>   
+<u>*Mathematical Logic in Computer Science*</u> by Assaf Kfoury
+
+<u>*On the Unusual Effectiveness of Logic in Computer Science*</u>   
 
 [FTP](http://okmij.org/ftp/)
 
-**[Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)** by [Karl Crary](https://www.cs.cmu.edu/~crary/)
+**[*Classic Papers in Programming Languages and Logic*](https://www.cs.cmu.edu/~crary/819-f09/)** by [Karl Crary](https://www.cs.cmu.edu/~crary/)
 
 [Xixi Logic](https://www.xixilogic.org/) Seminars is run by the logic group at Zhejiang University. 
 
