@@ -8,8 +8,8 @@ Raymond M. Smullyan (1919 – 2017):
 <th><a>A Beginner's Further Guide to Mathematical Logic</a></th>
 </tr>
 <tr>
-<td><a><div align=center><img width="110px" src="./images/Guide.png"/></div></a></td>
-<td><a><div align=center><img width="115px" src="./images/Further.png"/></div></a></td>
+<td><a><div align=center><img width="145px" src="./images/Guide.png"/></div></a></td>
+<td><a><div align=center><img width="150px" src="./images/Further.png"/></div></a></td>
 </tr>
 </table>
 
@@ -33,10 +33,10 @@ Raymond M. Smullyan (1919 – 2017):
 [An Open-Source, Collaborative Logic Text](https://openlogicproject.org) & <u>[**PDFs**](https://builds.openlogicproject.org)</u>：
 <table>
 <tr>
-<td><a href="https://slc.openlogicproject.org/"><img width="135px" src="./images/SetsLogicComputation.png"/></a></td>
-<td><a href="https://ic.openlogicproject.org/"><img width="135px" src="./images/IncompletenessAndComputability.png"/></a></td>
-<td><a href="https://bd.openlogicproject.org/"><img width="135px" src="./images/BoxesAndDiamonds.png"/></a></td>
-<td><a href="https://builds.openlogicproject.org/courses/set-theory/"><img width="135px" src="./images/SetTheory.png"/></a></td>
+<td><a href="https://slc.openlogicproject.org/"><img width="150px" src="./images/SetsLogicComputation.png"/></a></td>
+<td><a href="https://ic.openlogicproject.org/"><img width="150px" src="./images/IncompletenessAndComputability.png"/></a></td>
+<td><a href="https://bd.openlogicproject.org/"><img width="150px" src="./images/BoxesAndDiamonds.png"/></a></td>
+<td><a href="https://builds.openlogicproject.org/courses/set-theory/"><img width="150px" src="./images/SetTheory.png"/></a></td>
 </tr>
 </table>
 
@@ -83,21 +83,25 @@ Raymond M. Smullyan (1919 – 2017):
 <table>
 <tr>
 <th><a>郝兆宽、杨睿之、杨跃</a></th>
+<th><a>张再跃 张晓如</a></th>
 <th><a>王浩（1921 — 1995）</a></th>
 <th><a>冯琦</a></th>
+</tr>
+<td><a><img width="150px" src="./images/数理逻辑证明及其限度.png"/></a></td>
+<td><a><img width="150px" src="./images/数理逻辑.png"/></a></td>
+<td><a><img width="135px" src="./images/数理逻辑通俗讲话.png"/></a></td>
+<td><a><img width="150px" src="./images/数理逻辑导引.png"/></a></td>
+<tr>
 <th><a>陆钟万</a></th>
 <th><a>陆汝钤</a></th>
 <th><a>张家龙</a></th>
 <th><a>(译)张卜天</a></th>
 </tr>
 <tr>
-<td><a><img width="115px" src="./images/数理逻辑证明及其限度.png"/></a></td>
-<td><a><img width="100px" src="./images/数理逻辑通俗讲话.png"/></a></td>
-<td><a><img width="115px" src="./images/数理逻辑导引.png"/></a></td>
-<td><a><img width="115px" src="./images/面向计算机科学的数理逻辑.png"/></a></td>
-<td><a><img width="80px" src="./images/陆汝钤.png"/></a></td>
-<td><a><img width="100px" src="./images/数理逻辑发展史.jpg"/></a></td>
-<td><a><img width="100px" src="./images/逻辑的引擎.jpg"/></a></td>
+<td><a><img width="150px" src="./images/面向计算机科学的数理逻辑.png"/></a></td>
+<td><a><img width="120px" src="./images/陆汝钤.png"/></a></td>
+<td><a><img width="135px" src="./images/数理逻辑发展史.jpg"/></a></td>
+<td><a><img width="135px" src="./images/逻辑的引擎.jpg"/></a></td>
 </tr>
 </table>
 
