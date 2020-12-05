@@ -45,10 +45,10 @@ Raymond M. Smullyan (1919 – 2017):
 |学校 |课程 |授课 |
 |:-----:|:----:|:----:|
 | Oregon  | [Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html) |  |
-|复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
+| 复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
 | 南京大学  | <u>[Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
-|北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
-
+| 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
+| 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
 -
 
 [Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
