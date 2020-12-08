@@ -1,6 +1,10 @@
-# Mathematical-Logic
+#### <u>*Mathematical Logic in Computer Science*</u> by Assaf Kfoury
 
-Raymond M. Smullyan (1919 – 2017):
+#### <u>*On the Unusual Effectiveness of Logic in Computer Science*</u>   
+
+-
+
+**Raymond M. Smullyan (1919 – 2017)** :
 
 <table>
 <tr>
@@ -12,6 +16,51 @@ Raymond M. Smullyan (1919 – 2017):
 <td><a><div align=center><img width="150px" src="./images/Further.png"/></div></a></td>
 </tr>
 </table>
+
+******
+
+Chinese:
+
+<table>
+<tr>
+<th><a>郝兆宽、杨睿之、杨跃</a></th>
+<th><a>张再跃 张晓如</a></th>
+<th><a>王浩（1921 — 1995）</a></th>
+<th><a>冯琦</a></th>
+<th><a>徐明</a></th>
+<th><a>杨睿之</a></th>
+</tr>
+<tr>
+<td><a><img width="150px" src="./images/数理逻辑证明及其限度.png"/></a></td>
+<td><a><img width="150px" src="./images/数理逻辑.png"/></a></td>
+<td><a><img width="135px" src="./images/数理逻辑通俗讲话.png"/></a></td>
+<td><a><img width="150px" src="./images/数理逻辑导引.png"/></a></td>
+<td><a><img width="150px" src="./images/符号逻辑讲义.jpg"/></a></td>
+<td><a><img width="135px" src="./images/杨睿之.jpg"/></a></td>
+</tr>
+<tr>
+<th><a>陆钟万</a></th>
+<th><a>陆汝钤</a></th>
+<th><a>张家龙</a></th>
+<th><a>(译)张卜天</a></th>
+<th><a>(译)郝兆宽/杨睿之</a></th>
+</tr>
+<tr>
+<td><a><img width="150px" src="./images/面向计算机科学的数理逻辑.png"/></a></td>
+<td><a><img width="120px" src="./images/陆汝钤.png"/></a></td>
+<td><a><img width="135px" src="./images/数理逻辑发展史.jpg"/></a></td>
+<td><a><img width="135px" src="./images/逻辑的引擎.jpg"/></a></td>
+<td><a><div align=center><img width="125px" src="./images/数学哲学.jpg"/></div></a></td>
+</tr>
+</table>
+
+|学校 |课程 |授课 |
+|:-----:|:----:|:----:|
+| Oregon  | [Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html) |  |
+| 复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
+| 南京大学  | <u>[Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
+| 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
+| 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
 
 ******
 
@@ -42,15 +91,6 @@ Raymond M. Smullyan (1919 – 2017):
 
 -
 
-|学校 |课程 |授课 |
-|:-----:|:----:|:----:|
-| Oregon  | [Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html) |  |
-| 复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
-| 南京大学  | <u>[Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
-| 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
-| 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
--
-
 [Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
 
 <table>
@@ -79,37 +119,7 @@ Raymond M. Smullyan (1919 – 2017):
 </tr>
 </table>
 
-******
-<table>
-<tr>
-<th><a>郝兆宽、杨睿之、杨跃</a></th>
-<th><a>张再跃 张晓如</a></th>
-<th><a>王浩（1921 — 1995）</a></th>
-<th><a>冯琦</a></th>
-</tr>
-<td><a><img width="150px" src="./images/数理逻辑证明及其限度.png"/></a></td>
-<td><a><img width="150px" src="./images/数理逻辑.png"/></a></td>
-<td><a><img width="135px" src="./images/数理逻辑通俗讲话.png"/></a></td>
-<td><a><img width="150px" src="./images/数理逻辑导引.png"/></a></td>
-<tr>
-<th><a>陆钟万</a></th>
-<th><a>陆汝钤</a></th>
-<th><a>张家龙</a></th>
-<th><a>(译)张卜天</a></th>
-</tr>
-<tr>
-<td><a><img width="150px" src="./images/面向计算机科学的数理逻辑.png"/></a></td>
-<td><a><img width="120px" src="./images/陆汝钤.png"/></a></td>
-<td><a><img width="135px" src="./images/数理逻辑发展史.jpg"/></a></td>
-<td><a><img width="135px" src="./images/逻辑的引擎.jpg"/></a></td>
-</tr>
-</table>
-
-*****
-
-<u>*Mathematical Logic in Computer Science*</u> by Assaf Kfoury
-
-<u>*On the Unusual Effectiveness of Logic in Computer Science*</u>   
+- 
 
 [FTP](http://okmij.org/ftp/)
 
