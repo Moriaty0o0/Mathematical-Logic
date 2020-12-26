@@ -159,7 +159,9 @@
 
 -
 
-[Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
+<img width="50px" src="./images/benjamin-pierce.png">
+
+**[Software Foundations](https://softwarefoundations.cis.upenn.edu)** & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
 
 <table>
 <tr>
@@ -199,7 +201,7 @@
 <th><a href="https://agda-zh.github.io/PLFA-zh/">编程语言基础:Agda语言描述</a></th>
 </tr>
 <tr>
-<td><a href="https://plfa.github.io/"><div align=center><img width="100px" src="./images/PhilipWadler.jpg"></div></a></td>
+<td><a href="https://plfa.github.io/"><div align=center><img width="80px" src="./images/PhilipWadler.jpg"></div></a></td>
 <td><a>https://agda-zh.github.io/PLFA-zh/</a></td>
 </tr>
 </table>
