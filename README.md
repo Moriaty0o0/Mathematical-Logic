@@ -1,12 +1,4 @@
-#### <u>*Mathematical Logic in Computer Science*</u> by Assaf Kfoury
-
-#### <u>*On the Unusual Effectiveness of Logic in Computer Science*</u>   
-
-**[The Bulletin of Symbolic Logic](https://dblp.org/db/journals/bsl/index.html)**  (Journal 1995-)
-
--
-
-<img width="50px" src="./images/Smullyan.jpg"/>**Raymond M. Smullyan (1919 – 2017)** :
+<img width="50px" src="./images/Smullyan.jpg"/> **Raymond M. Smullyan (1919 – 2017)** :
 
 <div align=center>
 <table>
@@ -21,7 +13,7 @@
 </table>
 </div>
 
-******
+### 著述：
 
 <table>
 <tr>
@@ -56,7 +48,7 @@
 </tr>
 </table>
 
--
+### 课程：
 
 <div align=center>
 
@@ -76,27 +68,7 @@
 
 </div>
 
--
-
-> 赛义甫：[组合子逻辑、λ演算的历史背景和产生动机](http://blog.sciencenet.cn/blog-2349385-1041724.html)
-
-> [逻辑](https://site.douban.com/145723/) (豆瓣小站)
-
-> [现代形式语法理论](https://site.douban.com/249348/) (豆瓣小站)
-
-******
-
-[Logic Matters](https://www.logicmatters.net) :
-- Peter Smith's [Logic Matters blog](https://www.logicmatters.net/blogfront)
-- [An Introduction to Formal Logic](https://www.logicmatters.net/ifl)
-- [Godel's Theorems](https://www.logicmatters.net/igt)
-- [Categories](https://www.logicmatters.net/categories)
-- [Teach Yourself Logic](https://www.logicmatters.net/tyl)
-- [Notes and Papers](https://www.logicmatters.net/yet-more-logic)
-- [Logical snippets/advice for students](https://www.logicmatters.net/students)
-- [LaTeX for Logicians](https://www.logicmatters.net/latex-for-logicians)
-
-**[Handbook of the History of Logic](https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic)**：
+### [Handbook of the History of Logic](https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic)：
 
 <table>
 <tr>
@@ -131,8 +103,7 @@
 </tr>
 </table>
 
-
--
+### Books：
 
 <table>
 <tr>
@@ -143,8 +114,7 @@
 </tr>
 </table>
 
-*****
-[An Open-Source, Collaborative Logic Text](https://openlogicproject.org) & <u>[**PDFs**](https://builds.openlogicproject.org)</u>：
+### <u>[An Open-Source, Collaborative Logic Text](https://openlogicproject.org) & [**PDFs**](https://builds.openlogicproject.org)</u>：
 
 <div align=center>
 <table>
@@ -157,11 +127,9 @@
 </table>
 </div>
 
--
+### [Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
 
-<img width="50px" src="./images/benjamin-pierce.png">
-
-**[Software Foundations](https://softwarefoundations.cis.upenn.edu)** & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
+ <img width="50px" src="./images/benjamin-pierce.png">
 
 <table>
 <tr>
@@ -192,9 +160,6 @@
 </tr>
 </table>
 
--
-
-<div align=center>
 <table>
 <tr>
 <th><a href="https://plfa.github.io/">Programming Language Foundations in Agda</a></th>
@@ -205,16 +170,63 @@
 <td><a>https://agda-zh.github.io/PLFA-zh/</a></td>
 </tr>
 </table>
-</div>
 
-- 
+### 博文：
 
-[FTP](http://okmij.org/ftp/)
+> 赛义甫：[组合子逻辑、λ演算的历史背景和产生动机](http://blog.sciencenet.cn/blog-2349385-1041724.html)
 
-**[*Classic Papers in Programming Languages and Logic*](https://www.cs.cmu.edu/~crary/819-f09/)** by [Karl Crary](https://www.cs.cmu.edu/~crary/)
+> [逻辑](https://site.douban.com/145723/) (豆瓣小站)
+
+> [现代形式语法理论](https://site.douban.com/249348/) (豆瓣小站)
+
+[Logic Matters](https://www.logicmatters.net) :
+- Peter Smith's [Logic Matters blog](https://www.logicmatters.net/blogfront)
+- [An Introduction to Formal Logic](https://www.logicmatters.net/ifl)
+- [Godel's Theorems](https://www.logicmatters.net/igt)
+- [Categories](https://www.logicmatters.net/categories)
+- [Teach Yourself Logic](https://www.logicmatters.net/tyl)
+- [Notes and Papers](https://www.logicmatters.net/yet-more-logic)
+- [Logical snippets/advice for students](https://www.logicmatters.net/students)
+- [LaTeX for Logicians](https://www.logicmatters.net/latex-for-logicians)
 
 [Xixi Logic](https://www.xixilogic.org/) Seminars is run by the logic group at Zhejiang University. 
 
 <u>The Road to Modern Logic - an interpretation</u>     |     Jose Ferreiros 
 
+#### <u>*Mathematical Logic in Computer Science*</u> by Assaf Kfoury
 
+#### <u>*On the Unusual Effectiveness of Logic in Computer Science*</u>   
+
+**[The Bulletin of Symbolic Logic](https://dblp.org/db/journals/bsl/index.html)** 
+
+### History:
+
+| | | |
+|:---:|:-----:|:---:|
+|<img align=left width="50" src="./images/Descartes.jpg"/> René Descartes|[1596~1650](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)||
+|<img align=left width="50" src="./images/Leibniz1695.jpg"/> Gottfried Leibniz | [1646~1716](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)| 
+|<img align=left width="50" src="./images/Boole1860.jpg"/> George Boole |[1815~1864](https://en.wikipedia.org/wiki/George_Boole)|
+|<img align=left width="50" src="./images/Cantor.jpg"/> Georg Cantor |[1845~1918](https://en.wikipedia.org/wiki/Georg_Cantor)||
+|<img align=left width="50" src="./images/Frege1879.jpg"/> <img align=left width="50" src="./images/frege.jpg"/> Gottlob Frege |[1848~1925](https://en.wikipedia.org/wiki/Gottlob_Frege)||
+|<img align=left width="50" src="./images/Peano.jpg"/> Giuseppe Peano |[1858~1932](https://en.wikipedia.org/wiki/Giuseppe_Peano)||
+|<img align=left width="50" src="./images/Hilbert.jpg"/> David Hilbert| [1862~1943](https://en.wikipedia.org/wiki/David_Hilbert)||
+|<img align=left width="50" src="./images/Russell.jpg"/> Bertrand Russell |[1872~1970](https://en.wikipedia.org/wiki/Bertrand_Russell)||
+|<img align=left width="50" src="./images/Lewis.jpg"/> C. I. Lewis|[1883~1964](https://en.wikipedia.org/wiki/C._I._Lewis)||
+|<img align=left width="50" src="./images/Post.jpg"/> Emil Post| [1897~1954](https://en.wikipedia.org/wiki/Emil_Leon_Post)||
+|<img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
+|<img align=left width="50" src="./images/Church.jpg"/> Alonzo Church |[1903~1995](https://en.wikipedia.org/wiki/Alonzo_Church)||
+|<img align=left width="50" src="./images/Godel.jpg"/><img align=left width="50" src="./images/KurtGodel.jpg"/> Kurt Godel |[1906~1978](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)||
+|<img align=left width="45" src="./images/JacquesHerbrand.jpg"/> Jacques Herbrand|[1908~1931](https://en.wikipedia.org/wiki/Jacques_Herbrand)||
+|<img align=left width="50" src="./images/SKleene.png"><img align=left width="50" src="./images/Kleene.jpg"/> Stephen Kleene| [1909~1994](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene)||
+|<img align=left width="50" src="./images/Gentzen1.jpg"/><img align=left width="50" src="./images/Gentzen2.jpg"/> Gerhard Gentzen |[1909~1945](https://en.wikipedia.org/wiki/Gerhard_Gentzen)||
+|<img align=left width="50" src="./images/Lane.jpg"/><img align=left width="50" src="./images/Maclane.jpg"/>  Saunders Mac Lane | [1909~2005](https://en.wikipedia.org/wiki/Saunders_Mac_Lane) ||
+|<img align=left width="50" src="./images/Turing.jpg"/> Alan Turing| [1912~1954](https://en.wikipedia.org/wiki/Alan_Turing)||
+|<img align=left width="50" src="./images/王浩.jpg"/> Hao Wang 王浩| [1921~1995](https://en.wikipedia.org/wiki/Hao_Wang_(academic))||
+|<img align=left width="50" src="./images/Howard.png"/> William Alvin Howard|born [1926](https://en.wikipedia.org/wiki/William_Alvin_Howard)||
+|<img align=left width="50" src="./images/MartinDavis.png"/> Martin Davis|born [1928](https://en.wikipedia.org/wiki/Martin_Davis_(mathematician))||
+|<img align=left width="50" src="./images/Kleisli.jpeg"/> Heinrich Kleisli | [1930~2011](https://en.wikipedia.org/wiki/Heinrich_Kleisli)   | |
+|<img align=left width="50" src="./images/Milner.jpg"/> Robin Milner|[1934~2010](https://en.wikipedia.org/wiki/Robin_Milner)||
+|<img align=left width="50" src="./images/Reynolds.jpg"/> John C. Reynolds|[1935~2013](https://en.wikipedia.org/wiki/John_C._Reynolds)||
+|<img align=left width="50" src="./images/Hindley.jpg"/> J. Roger Hindley |born [1939](https://en.wikipedia.org/wiki/J._Roger_Hindley)||
+|<img align=left width="50" src="./images/Girard.jpg"/> Jean-Yves Girard|born [1947](https://en.wikipedia.org/wiki/Jean-Yves_Girard)||
+    
