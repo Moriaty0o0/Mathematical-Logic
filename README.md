@@ -219,7 +219,7 @@
 |<img align=left width="45" src="./images/JacquesHerbrand.jpg"/> Jacques Herbrand|[1908~1931](https://en.wikipedia.org/wiki/Jacques_Herbrand)||
 |<img align=left width="50" src="./images/SKleene.png"><img align=left width="50" src="./images/Kleene.jpg"/> Stephen Kleene| [1909~1994](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene)||
 |<img align=left width="50" src="./images/Gentzen1.jpg"/><img align=left width="50" src="./images/Gentzen2.jpg"/> Gerhard Gentzen |[1909~1945](https://en.wikipedia.org/wiki/Gerhard_Gentzen)||
-|<img align=left width="50" src="./images/Lane.jpg"/><img align=left width="50" src="./images/Maclane.jpg"/>  Saunders Mac Lane | [1909~2005](https://en.wikipedia.org/wiki/Saunders_Mac_Lane) ||
+|<img align=left width="50" src="./images/Lane.jpg"/><img align=left width="50" src="./images/MacLane.jpg"/>  Saunders Mac Lane | [1909~2005](https://en.wikipedia.org/wiki/Saunders_Mac_Lane) ||
 |<img align=left width="50" src="./images/Turing.jpg"/> Alan Turing| [1912~1954](https://en.wikipedia.org/wiki/Alan_Turing)||
 |<img align=left width="50" src="./images/王浩.jpg"/> Hao Wang 王浩| [1921~1995](https://en.wikipedia.org/wiki/Hao_Wang_(academic))||
 |<img align=left width="50" src="./images/Howard.png"/> William Alvin Howard|born [1926](https://en.wikipedia.org/wiki/William_Alvin_Howard)||
