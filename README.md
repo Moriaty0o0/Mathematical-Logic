@@ -59,6 +59,7 @@
 | 南京大学  | <u>[Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
 | 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
 | 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
+| 臺灣大學 |[邏輯、語言與計算暑期研習營](https://flolac.iis.sinica.edu.tw/zh/2020/index.html) |[穆信成](https://scm.iis.sinica.edu.tw/ncs/) |
 | Stanford | [CS103: Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/) | 2012  |
 | Washington  | [CSE431: Introduction to Theory of Computation](http://courses.cs.washington.edu/courses/cse431/) |  |
 | Washington | [CSEP531: Computability and Complexity Theory](http://courses.cs.washington.edu/courses/csep531/) | 2009/2016 |
@@ -129,7 +130,7 @@
 
 ### [Software Foundations](https://softwarefoundations.cis.upenn.edu) & <u>Chinese『[软件基础](https://coq-zh.github.io/SF-zh/)』</u>:
 
- <img width="50px" src="./images/benjamin-pierce.png">
+ <a href="https://www.cis.upenn.edu/~bcpierce/"><img width="50px" src="./images/benjamin-pierce.png">
 
 <table>
 <tr>
@@ -202,31 +203,39 @@
 ### History:
 
 | | | |
-|:---:|:-----:|:---:|
+|:---:|:-----:|---:|
 |<img align=left width="50" src="./images/Descartes.jpg"/> René Descartes|[1596~1650](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)||
 |<img align=left width="50" src="./images/Leibniz1695.jpg"/> Gottfried Leibniz | [1646~1716](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)| 
 |<img align=left width="50" src="./images/Boole1860.jpg"/> George Boole |[1815~1864](https://en.wikipedia.org/wiki/George_Boole)|
-|<img align=left width="50" src="./images/Cantor.jpg"/> Georg Cantor |[1845~1918](https://en.wikipedia.org/wiki/Georg_Cantor)||
+|<img align=left width="50" src="./images/Cantor1870.jpg"/><img align=left width="50" src="./images/Cantor.jpg"/> Georg Cantor |[1845~1918](https://en.wikipedia.org/wiki/Georg_Cantor)||
 |<img align=left width="50" src="./images/Frege1879.jpg"/> <img align=left width="50" src="./images/frege.jpg"/> Gottlob Frege |[1848~1925](https://en.wikipedia.org/wiki/Gottlob_Frege)||
 |<img align=left width="50" src="./images/Peano.jpg"/> Giuseppe Peano |[1858~1932](https://en.wikipedia.org/wiki/Giuseppe_Peano)||
-|<img align=left width="50" src="./images/Hilbert.jpg"/> David Hilbert| [1862~1943](https://en.wikipedia.org/wiki/David_Hilbert)||
-|<img align=left width="50" src="./images/Russell.jpg"/> Bertrand Russell |[1872~1970](https://en.wikipedia.org/wiki/Bertrand_Russell)||
+|<img align=left width="50" src="./images/Hilbert1912.jpg"/><img align=left width="50" src="./images/Hilbert60birth1922.png"> David Hilbert| [1862~1943](https://en.wikipedia.org/wiki/David_Hilbert)||
+|<img align=left width="50" src="./images/Russell1957.jpg"/> Bertrand Russell |[1872~1970](https://en.wikipedia.org/wiki/Bertrand_Russell)||
 |<img align=left width="50" src="./images/Lewis.jpg"/> C. I. Lewis|[1883~1964](https://en.wikipedia.org/wiki/C._I._Lewis)||
+|<img align=left width="50" src="./images/MosesSchönfinkel.png"><img align=left width="50" src="./images/Schonfinkel.gif">  Moses Schönfinkel| [1888~1942](https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)  |   |
+|<img align=left width="50" src="./images/RudolfCarnap1935.jpg"><img align=left width="50" src="./images/Carnap.jpg"/> Paul Rudolf Carnap|[1891~1970](https://en.wikipedia.org/wiki/Rudolf_Carnap)||
 |<img align=left width="50" src="./images/Post.jpg"/> Emil Post| [1897~1954](https://en.wikipedia.org/wiki/Emil_Leon_Post)||
-|<img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
+|<img align=left width="50" src="./images/haskell.png"><img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
+|<img align=left width="50" src="./images/Tarski.jpg"/> Alfred Tarski | [1901~1983](https://en.wikipedia.org/wiki/Alfred_Tarski) ||
 |<img align=left width="50" src="./images/Church.jpg"/> Alonzo Church |[1903~1995](https://en.wikipedia.org/wiki/Alonzo_Church)||
 |<img align=left width="50" src="./images/Godel.jpg"/><img align=left width="50" src="./images/KurtGodel.jpg"/> Kurt Godel |[1906~1978](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)||
-|<img align=left width="45" src="./images/JacquesHerbrand.jpg"/> Jacques Herbrand|[1908~1931](https://en.wikipedia.org/wiki/Jacques_Herbrand)||
+|<img align=left width="50" src="./images/rosser.jpg"/>  J. Barkley Rosser|[1907~1989](https://en.wikipedia.org/wiki/J._Barkley_Rosser)  |  |
+|<img align=left width="45" src="./images/JacquesHerbrand1931.jpg"/> Jacques Herbrand|[1908~1931](https://en.wikipedia.org/wiki/Jacques_Herbrand)||
 |<img align=left width="50" src="./images/SKleene.png"><img align=left width="50" src="./images/Kleene.jpg"/> Stephen Kleene| [1909~1994](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene)||
 |<img align=left width="50" src="./images/Gentzen1.jpg"/><img align=left width="50" src="./images/Gentzen2.jpg"/> Gerhard Gentzen |[1909~1945](https://en.wikipedia.org/wiki/Gerhard_Gentzen)||
 |<img align=left width="50" src="./images/Lane.jpg"/><img align=left width="50" src="./images/MacLane.jpg"/>  Saunders Mac Lane | [1909~2005](https://en.wikipedia.org/wiki/Saunders_Mac_Lane) ||
 |<img align=left width="50" src="./images/Turing.jpg"/> Alan Turing| [1912~1954](https://en.wikipedia.org/wiki/Alan_Turing)||
+|<img align=left width="50" src="./images/RSmullyan.jpg"/><img align=left width="55" src="./images/Smullyan2008.jpg"/> Raymond Merrill Smullyan|[1919~2017](https://en.wikipedia.org/wiki/Raymond_Smullyan)|<img align=left width="50" src="./images/Smullyan.png"><img align=left width="50" src="./images/Guide.png"><img align=left width="50" src="./images/Further.png">|
 |<img align=left width="50" src="./images/王浩.jpg"/> Hao Wang 王浩| [1921~1995](https://en.wikipedia.org/wiki/Hao_Wang_(academic))||
 |<img align=left width="50" src="./images/Howard.png"/> William Alvin Howard|born [1926](https://en.wikipedia.org/wiki/William_Alvin_Howard)||
 |<img align=left width="50" src="./images/MartinDavis.png"/> Martin Davis|born [1928](https://en.wikipedia.org/wiki/Martin_Davis_(mathematician))||
 |<img align=left width="50" src="./images/Kleisli.jpeg"/> Heinrich Kleisli | [1930~2011](https://en.wikipedia.org/wiki/Heinrich_Kleisli)   | |
+|<img align=left width="50" src="./images/scott.jpg"/>   Dana Scott|born [1932](https://en.wikipedia.org/wiki/Dana_Scott)||
 |<img align=left width="50" src="./images/Milner.jpg"/> Robin Milner|[1934~2010](https://en.wikipedia.org/wiki/Robin_Milner)||
-|<img align=left width="50" src="./images/Reynolds.jpg"/> John C. Reynolds|[1935~2013](https://en.wikipedia.org/wiki/John_C._Reynolds)||
+|<img align=left width="50" src="./images/Reynolds.jpg"/> John C. Reynolds [CMU Page](https://www.cs.cmu.edu/~jcr/)|[1935~2013](https://en.wikipedia.org/wiki/John_C._Reynolds)||
 |<img align=left width="50" src="./images/Hindley.jpg"/> J. Roger Hindley |born [1939](https://en.wikipedia.org/wiki/J._Roger_Hindley)||
+|<img align=left width="50" src="./images/Cook1968.jpg"><img align=left width="50" src="./images/Cook2008.jpg">  Stephen Cook [Toronto Page](http://www.cs.toronto.edu/~sacook/)|born [1939](https://en.wikipedia.org/wiki/Stephen_Cook)||
+|<img align=left width="50" src="./images/Per2004.jpg"/>   Per Martin-Löf|born [1942](https://en.wikipedia.org/wiki/Martin-L%C3%B6f)||
 |<img align=left width="50" src="./images/Girard.jpg"/> Jean-Yves Girard|born [1947](https://en.wikipedia.org/wiki/Jean-Yves_Girard)||
     
