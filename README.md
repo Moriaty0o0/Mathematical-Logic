@@ -174,6 +174,8 @@
 
 ### 博文：
 
+[Computational Complexity —— Computational Complexity and other fun stuff in math and computer science from Lance Fortnow and Bill Gaserch](https://blog.computationalcomplexity.org/)
+
 > 赛义甫：[组合子逻辑、λ演算的历史背景和产生动机](http://blog.sciencenet.cn/blog-2349385-1041724.html)
 
 > [逻辑](https://site.douban.com/145723/) (豆瓣小站)
