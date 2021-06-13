@@ -5,10 +5,12 @@
 <tr>
 <th><a>A Beginner's Guide to Mathematical Logic</a></th>
 <th><a>A Beginner's Further Guide to Mathematical Logic</a></th>
+<th><a>Godel's Incompleteness Theorems</a></th>
 </tr>
 <tr>
-<td><a><div align=center><img width="145px" src="./images/Guide.png"/></div></a></td>
+<td><a><div align=center><img width="150px" src="./images/Guide.png"/></div></a></td>
 <td><a><div align=center><img width="150px" src="./images/Further.png"/></div></a></td>
+<td><a><div align=center><img width="150px" src="./images/Smullyan.png"/></div></a></td>
 </tr>
 </table>
 </div>
@@ -182,6 +184,8 @@
 
 > [现代形式语法理论](https://site.douban.com/249348/) (豆瓣小站)
 
+[Combinators and the Story of Computation](https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/)
+
 [Logic Matters](https://www.logicmatters.net) :
 - Peter Smith's [Logic Matters blog](https://www.logicmatters.net/blogfront)
 - [An Introduction to Formal Logic](https://www.logicmatters.net/ifl)
@@ -215,9 +219,9 @@
 |<img align=left width="50" src="./images/Hilbert1912.jpg"/><img align=left width="50" src="./images/Hilbert60birth1922.png"> David Hilbert| [1862~1943](https://en.wikipedia.org/wiki/David_Hilbert)||
 |<img align=left width="50" src="./images/Russell1957.jpg"/> Bertrand Russell |[1872~1970](https://en.wikipedia.org/wiki/Bertrand_Russell)||
 |<img align=left width="50" src="./images/Lewis.jpg"/> C. I. Lewis|[1883~1964](https://en.wikipedia.org/wiki/C._I._Lewis)||
-|<img align=left width="50" src="./images/MosesSchönfinkel.png"><img align=left width="50" src="./images/Schonfinkel.gif">  Moses Schönfinkel| [1888~1942](https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)  |   |
+|<img align=left width="50" src="./images/MosesSchönfinkel.png"><img align=left width="50" src="./images/Schonfinkel.gif">  [Moses Schönfinkel](https://writings.stephenwolfram.com/2020/12/where-did-combinators-come-from-hunting-the-story-of-moses-schonfinkel/)| [1888~1942](https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)  |   |
 |<img align=left width="50" src="./images/RudolfCarnap1935.jpg"><img align=left width="50" src="./images/Carnap.jpg"/> Paul Rudolf Carnap|[1891~1970](https://en.wikipedia.org/wiki/Rudolf_Carnap)||
-|<img align=left width="50" src="./images/Post.jpg"/> Emil Post| [1897~1954](https://en.wikipedia.org/wiki/Emil_Leon_Post)||
+|<img align=left width="50" src="./images/Post.jpg"/> [Emil Post](https://writings.stephenwolfram.com/2021/03/after-100-years-can-we-finally-crack-posts-problem-of-tag-a-story-of-computational-irreducibility-and-more/)| [1897~1954](https://en.wikipedia.org/wiki/Emil_Leon_Post)||
 |<img align=left width="50" src="./images/haskell.png"><img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
 |<img align=left width="50" src="./images/Tarski.jpg"/> Alfred Tarski | [1901~1983](https://en.wikipedia.org/wiki/Alfred_Tarski) ||
 |<img align=left width="50" src="./images/Church.jpg"/> Alonzo Church |[1903~1995](https://en.wikipedia.org/wiki/Alonzo_Church)||
