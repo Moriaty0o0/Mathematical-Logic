@@ -225,6 +225,7 @@
 |<img align=left width="50" src="./images/haskell.png"><img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
 |<img align=left width="50" src="./images/Tarski.jpg"/> Alfred Tarski | [1901~1983](https://en.wikipedia.org/wiki/Alfred_Tarski) ||
 |<img align=left width="50" src="./images/Church.jpg"/> Alonzo Church |[1903~1995](https://en.wikipedia.org/wiki/Alonzo_Church)||
+|<img align=left width="50" src="./images/Rózsa Péter.jpg"><img align=left width="50" src="./images/RózsaPéter.jpg"> Rózsa Péter|[1905 - 1977](https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter)|
 |<img align=left width="50" src="./images/Godel.jpg"/><img align=left width="50" src="./images/KurtGodel.jpg"/> Kurt Godel |[1906~1978](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)||
 |<img align=left width="50" src="./images/rosser.jpg"/>  J. Barkley Rosser|[1907~1989](https://en.wikipedia.org/wiki/J._Barkley_Rosser)  |  |
 |<img align=left width="45" src="./images/JacquesHerbrand1931.jpg"/> Jacques Herbrand|[1908~1931](https://en.wikipedia.org/wiki/Jacques_Herbrand)||
