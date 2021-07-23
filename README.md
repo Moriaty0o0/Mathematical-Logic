@@ -62,6 +62,8 @@
 | 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
 | 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
 | 臺灣大學 |[邏輯、語言與計算暑期研習營](https://flolac.iis.sinica.edu.tw/zh/2020/index.html) |[穆信成](https://scm.iis.sinica.edu.tw/ncs/) |
+|Brown University |[Programming and Programming Languages](https://papl.cs.brown.edu/)|Shriram Krishnamurthi|
+| |[The Curry-Howard correspondence Today](https://xavierleroy.org/CdF/2018-2019/) |Xavier Leroy |
 | Stanford | [CS103: Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/) | 2012  |
 | Washington  | [CSE431: Introduction to Theory of Computation](http://courses.cs.washington.edu/courses/cse431/) |  |
 | Washington | [CSEP531: Computability and Complexity Theory](http://courses.cs.washington.edu/courses/csep531/) | 2009/2016 |
@@ -70,6 +72,12 @@
 | Washington | [CSE533: Advanced Topics in Complexity Theory](https://courses.cs.washington.edu/courses/cse533/) |  |
 
 </div>
+
+
+
+### [Studies in Logic and the Foundations of Mathematics](https://www.elsevier.com/books/book-series/studies-in-logic-and-the-foundations-of-mathematics)
+
+
 
 ### [Handbook of the History of Logic](https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic)：
 
@@ -245,4 +253,4 @@
 |<img align=left width="50" src="./images/Cook1968.jpg"><img align=left width="50" src="./images/Cook2008.jpg">  Stephen Cook [Toronto Page](http://www.cs.toronto.edu/~sacook/)|born [1939](https://en.wikipedia.org/wiki/Stephen_Cook)||
 |<img align=left width="50" src="./images/Per2004.jpg"/>   Per Martin-Löf|born [1942](https://en.wikipedia.org/wiki/Martin-L%C3%B6f)||
 |<img align=left width="50" src="./images/Girard.jpg"/> Jean-Yves Girard|born [1947](https://en.wikipedia.org/wiki/Jean-Yves_Girard)||
-    
+
