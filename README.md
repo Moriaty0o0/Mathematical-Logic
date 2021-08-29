@@ -254,3 +254,6 @@
 |<img align=left width="50" src="./images/Per2004.jpg"/>   Per Martin-Löf|born [1942](https://en.wikipedia.org/wiki/Martin-L%C3%B6f)||
 |<img align=left width="50" src="./images/Girard.jpg"/> Jean-Yves Girard|born [1947](https://en.wikipedia.org/wiki/Jean-Yves_Girard)||
 
+
+
+![stars](https://starchart.cc/alaskasquirrel/Mathematical-Logic.svg)
