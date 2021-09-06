@@ -79,7 +79,7 @@
 
 
 
-### [Handbook of the History of Logic](https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic)：
+### [Handbook of the History of Logic](https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic)：https://www.johnwoods.ca/hhl
 
 <table>
 <tr>
@@ -181,6 +181,7 @@
 <td><a>https://agda-zh.github.io/PLFA-zh/</a></td>
 </tr>
 </table>
+[Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
 
 ### 博文：
 
@@ -199,7 +200,7 @@
 - [An Introduction to Formal Logic](https://www.logicmatters.net/ifl)
 - [Godel's Theorems](https://www.logicmatters.net/igt)
 - [Categories](https://www.logicmatters.net/categories)
-- [Teach Yourself Logic](https://www.logicmatters.net/tyl)
+- [Teach Yourself Logic](https://www.logicmatters.net/tyl) ⭐
 - [Notes and Papers](https://www.logicmatters.net/yet-more-logic)
 - [Logical snippets/advice for students](https://www.logicmatters.net/students)
 - [LaTeX for Logicians](https://www.logicmatters.net/latex-for-logicians)
