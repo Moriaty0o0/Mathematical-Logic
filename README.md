@@ -27,12 +27,12 @@
 <th><a>杨睿之</a></th>
 </tr>
 <tr>
-<td><a><img width="150px" src="./images/数理逻辑证明及其限度.png"/></a></td>
+    <td><a><div align=center><img width="125px" src="./images/数理逻辑证明及其限度.png"/></div></a></td>
 <td><a><img width="150px" src="./images/数理逻辑.png"/></a></td>
 <td><a><img width="135px" src="./images/数理逻辑通俗讲话.png"/></a></td>
 <td><a><img width="150px" src="./images/数理逻辑导引.png"/></a></td>
 <td><a><img width="150px" src="./images/符号逻辑讲义.jpg"/></a></td>
-<td><a><img width="135px" src="./images/杨睿之.jpg"/></a></td>
+<td><a><div align=center><img width="125px" src="./images/杨睿之.jpg"/></div></a></td>
 </tr>
 <tr>
 <th><a>陆钟万</a></th>
@@ -40,15 +40,23 @@
 <th><a>张家龙</a></th>
 <th><a>(译)张卜天</a></th>
 <th><a>(译)郝兆宽/杨睿之</a></th>
+<th><a> From Mathematics in Logic to Logic in Mathematics:Boole and Frege </a></thth>    
 </tr>
 <tr>
-<td><a><img width="150px" src="./images/面向计算机科学的数理逻辑.png"/></a></td>
+    <td><a><div align=center><img width="125px" src="./images/面向计算机科学的数理逻辑.png"/></div></a></td>
 <td><a><img width="120px" src="./images/陆汝钤.png"/></a></td>
 <td><a><img width="135px" src="./images/数理逻辑发展史.jpg"/></a></td>
 <td><a><img width="135px" src="./images/逻辑的引擎.jpg"/></a></td>
 <td><a><div align=center><img width="125px" src="./images/数学哲学.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41DhXuituNL._SX331_BO1,204,203,200_.jpg"></div></a></td>
 </tr>
+<th><a>From Frege to Godel: A Source Book in Mathematical Logic,1879-1931</a></th>
+</tr>
+<tr>
+    <td><a><div align=center><img width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41woX0sYNkL._SX390_BO1,204,203,200_.jpg"></div></a></td>   
+</tr>    
 </table>
+
 
 ### 课程：
 
@@ -220,8 +228,9 @@
 | | | |
 |:---:|:-----:|---:|
 |<img align=left width="50" src="./images/Descartes.jpg"/> René Descartes|[1596~1650](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)||
-|<img align=left width="50" src="./images/Leibniz1695.jpg"/> Gottfried Leibniz | [1646~1716](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)| 
-|<img align=left width="50" src="./images/Boole1860.jpg"/> George Boole |[1815~1864](https://en.wikipedia.org/wiki/George_Boole)|
+|<img align=left width="50" src="./images/Leibniz1695.jpg"/> Gottfried Leibniz | [1646~1716](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)||
+|<img align=left width="50" src="./images/Boole1860.jpg"/> George Boole |[1815~1864](https://en.wikipedia.org/wiki/George_Boole)||
+|Charles Sanders Peirce| [1839~1914]()||
 |<img align=left width="50" src="./images/Cantor1870.jpg"/><img align=left width="50" src="./images/Cantor.jpg"/> Georg Cantor |[1845~1918](https://en.wikipedia.org/wiki/Georg_Cantor)||
 |<img align=left width="50" src="./images/Frege1879.jpg"/> <img align=left width="50" src="./images/frege.jpg"/> Gottlob Frege |[1848~1925](https://en.wikipedia.org/wiki/Gottlob_Frege)||
 |<img align=left width="50" src="./images/Peano.jpg"/> Giuseppe Peano |[1858~1932](https://en.wikipedia.org/wiki/Giuseppe_Peano)||
@@ -232,9 +241,9 @@
 |<img align=left width="50" src="./images/RudolfCarnap1935.jpg"><img align=left width="50" src="./images/Carnap.jpg"/> Paul Rudolf Carnap|[1891~1970](https://en.wikipedia.org/wiki/Rudolf_Carnap)||
 |<img align=left width="50" src="./images/Post.jpg"/> [Emil Post](https://writings.stephenwolfram.com/2021/03/after-100-years-can-we-finally-crack-posts-problem-of-tag-a-story-of-computational-irreducibility-and-more/)| [1897~1954](https://en.wikipedia.org/wiki/Emil_Leon_Post)||
 |<img align=left width="50" src="./images/haskell.png"><img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
-|<img align=left width="50" src="./images/Tarski.jpg"/> Alfred Tarski | [1901~1983](https://en.wikipedia.org/wiki/Alfred_Tarski) ||
+|<img align=left width="50" src="./images/Tarski.jpg"/> Alfred Tarski | [1901~1983](https://en.wikipedia.org/wiki/Alfred_Tarski) |<img width="50" src="https://images-na.ssl-images-amazon.com/images/I/51RWZWeqlyL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg">|
 |<img align=left width="50" src="./images/Church.jpg"/> Alonzo Church |[1903~1995](https://en.wikipedia.org/wiki/Alonzo_Church)||
-|<img align=left width="50" src="./images/Rózsa Péter.jpg"><img align=left width="50" src="./images/RózsaPéter.jpg"> Rózsa Péter|[1905 - 1977](https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter)|
+|<img align=left width="50" src="./images/Rózsa Péter.jpg"><img align=left width="50" src="./images/RózsaPéter.jpg"> Rózsa Péter|[1905 - 1977](https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter)||
 |<img align=left width="50" src="./images/Godel.jpg"/><img align=left width="50" src="./images/KurtGodel.jpg"/> Kurt Godel |[1906~1978](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)||
 |<img align=left width="50" src="./images/rosser.jpg"/>  J. Barkley Rosser|[1907~1989](https://en.wikipedia.org/wiki/J._Barkley_Rosser)  |  |
 |<img align=left width="45" src="./images/JacquesHerbrand1931.jpg"/> Jacques Herbrand|[1908~1931](https://en.wikipedia.org/wiki/Jacques_Herbrand)||
