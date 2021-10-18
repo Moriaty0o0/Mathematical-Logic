@@ -157,13 +157,15 @@
 <th><a href="https://softwarefoundations.cis.upenn.edu/vfa-current/index.html">Verified Functional Algorithms</th>
 <th><a href="https://softwarefoundations.cis.upenn.edu/qc-current/index.html">QuickChick: Property-Based Testing in Coq</th>
 <th><a href="https://softwarefoundations.cis.upenn.edu/vc-current/index.html">Verifiable C</th>
+<th><a href="https://softwarefoundations.cis.upenn.edu/slf-current/index.html">Separation Logic Foundations</th>    
 </tr>
 <tr>
 <td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/lf-current/index.html"><img width="150px" src="./images/I.png"/></div></td>
 <td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/plf-current/index.html"><img width="150px" src="./images/II.png"/></div></td>
 <td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/vfa-current/index.html"><img width="150px" src="./images/III.png"/></div></td>
-<td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/qc-current/index.html"><img width="150px" src="./images/IV.png"/></div></td>
+<td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/qc-current/index.html"><img width="150px" src="./images/IV.png"/></div></td>   
 <td><a href="https://softwarefoundations.cis.upenn.edu/vc-current/index.html"><img width="150px" src="./images/V.png"/></td>
+<td><a href="https://softwarefoundations.cis.upenn.edu/slf-current/index.html"><img width="150px" src="https://softwarefoundations.cis.upenn.edu/common/media/image/slf-icon.png"></td>
 </tr>
 <tr>
 <th><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html">《逻辑基础》</a></th>
