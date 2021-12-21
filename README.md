@@ -60,7 +60,6 @@
 
 ### 课程：
 
-<div align=center>
 
 | 学校 | 课程 | 授课 |
 |:-----:|:----:|:----:|
@@ -79,7 +78,6 @@
 | Washington  | [CSE532: Complexity Theory](https://courses.cs.washington.edu/courses/cse532/)  |   |
 | Washington | [CSE533: Advanced Topics in Complexity Theory](https://courses.cs.washington.edu/courses/cse533/) |  |
 
-</div>
 
 
 
@@ -157,15 +155,15 @@
 <th><a href="https://softwarefoundations.cis.upenn.edu/vfa-current/index.html">Verified Functional Algorithms</th>
 <th><a href="https://softwarefoundations.cis.upenn.edu/qc-current/index.html">QuickChick: Property-Based Testing in Coq</th>
 <th><a href="https://softwarefoundations.cis.upenn.edu/vc-current/index.html">Verifiable C</th>
-<th><a href="https://softwarefoundations.cis.upenn.edu/slf-current/index.html">Separation Logic Foundations</th>    
+<th><a href="https://softwarefoundations.cis.upenn.edu/slf-current/index.html">Separation Logic Foundations</a></th>
 </tr>
 <tr>
 <td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/lf-current/index.html"><img width="150px" src="./images/I.png"/></div></td>
 <td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/plf-current/index.html"><img width="150px" src="./images/II.png"/></div></td>
 <td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/vfa-current/index.html"><img width="150px" src="./images/III.png"/></div></td>
-<td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/qc-current/index.html"><img width="150px" src="./images/IV.png"/></div></td>   
-<td><a href="https://softwarefoundations.cis.upenn.edu/vc-current/index.html"><img width="150px" src="./images/V.png"/></td>
-<td><a href="https://softwarefoundations.cis.upenn.edu/slf-current/index.html"><img width="150px" src="https://softwarefoundations.cis.upenn.edu/common/media/image/slf-icon.png"></td>
+<td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/qc-current/index.html"><img width="150px" src="./images/IV.png"/></div></td>
+<td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/vc-current/index.html"><img width="150px" src="./images/V.png"/></div></td>
+<td><div align=center><a href="https://softwarefoundations.cis.upenn.edu/slf-current/index.html"><img width="150px" src="./images/slf.png"></div></td>
 </tr>
 <tr>
 <th><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html">《逻辑基础》</a></th>
@@ -174,12 +172,13 @@
 <th><a href="https://coq-zh.github.io/SF-zh/qc-current/index.html">《QuickChick：用 Coq 进行基于性质的测试》</a></th>
 </tr>
 <tr>
-<td><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html"><img width="150px" src="./images/第一卷.png"/></a></td>
+<td><div align=center><a href="https://coq-zh.github.io/SF-zh/lf-current/index.html"><img width="150px" src="./images/第一卷.png"/></div></a></td>
 <td><div align=center><a href="https://coq-zh.github.io/SF-zh/plf-current/index.html"><img width="150px" src="./images/第二卷.png"/></div></a></td>
 <td><div align=center><a href="https://coq-zh.github.io/SF-zh/vfa-current/index.html"><img width="150px" src="./images/第三卷.png"/></div></a></td>
 <td><div align=center><a href="https://coq-zh.github.io/SF-zh/qc-current/index.html"><img width="150px" src="./images/第四卷.png"/></div></a></td>
 </tr>
 </table>
+
 
 <table>
 <tr>
