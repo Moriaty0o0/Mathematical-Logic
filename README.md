@@ -43,7 +43,7 @@
 <th><a> From Mathematics in Logic to Logic in Mathematics:Boole and Frege </a></thth>    
 </tr>
 <tr>
-    <td><a><div align=center><img width="125px" src="./images/面向计算机科学的数理逻辑.png"/></div></a></td>
+<td><a><div align=center><img width="125px" src="./images/面向计算机科学的数理逻辑.png"/></div></a></td>
 <td><a><img width="120px" src="./images/陆汝钤.png"/></a></td>
 <td><a><img width="135px" src="./images/数理逻辑发展史.jpg"/></a></td>
 <td><a><img width="135px" src="./images/逻辑的引擎.jpg"/></a></td>
@@ -53,9 +53,10 @@
 <th><a>From Frege to Godel: A Source Book in Mathematical Logic,1879-1931</a></th>
 </tr>
 <tr>
-    <td><a><div align=center><img width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41woX0sYNkL._SX390_BO1,204,203,200_.jpg"></div></a></td>   
+<td><a><div align=center><img width="100px" src="https://images-na.ssl-images-amazon.com/images/I/41woX0sYNkL._SX390_BO1,204,203,200_.jpg"></div></a></td>   
 </tr>    
 </table>
+
 
 
 ### 课程：
@@ -224,7 +225,11 @@
 
 **[The Bulletin of Symbolic Logic](https://dblp.org/db/journals/bsl/index.html)** 
 
-### History:
+### History: 
+
+The 1966 International Congress of Mathematicials: a micro-memoir
+
+[‘Qinghua School of Logic’: Mathematical Logic at Qinghua University in Peking, 1926–1945](https://www.tandfonline.com/doi/full/10.1080/01445340.2021.1904663) & [汉学家眼中的“清华逻辑学派”](https://www.phil.tsinghua.edu.cn/info/1037/1926.htm)
 
 | | | |
 |:---:|:-----:|---:|
