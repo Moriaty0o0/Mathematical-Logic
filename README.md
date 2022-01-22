@@ -70,8 +70,10 @@
 | 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
 | 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
 | 臺灣大學 |[邏輯、語言與計算暑期研習營](https://flolac.iis.sinica.edu.tw/zh/2020/index.html) |[穆信成](https://scm.iis.sinica.edu.tw/ncs/) |
+| uwaterloo.ca |Logic and Computation Intertwined |https://cs.uwaterloo.ca/~plragde/flaneries/LACI/ |
 |Brown University |[Programming and Programming Languages](https://papl.cs.brown.edu/)|Shriram Krishnamurthi|
-| |[The Curry-Howard correspondence Today](https://xavierleroy.org/CdF/2018-2019/) |Xavier Leroy |
+| |[The Curry-Howard correspondence Today](https://xavierleroy.org/CdF/2018-2019/) 2018-2019. |Xavier Leroy |
+| CMU |Homotopy Type Theory |https://www.cs.cmu.edu/~rwh/courses/hott/ |
 | Stanford | [CS103: Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/) | 2012  |
 | Washington  | [CSE431: Introduction to Theory of Computation](http://courses.cs.washington.edu/courses/cse431/) |  |
 | Washington | [CSEP531: Computability and Complexity Theory](http://courses.cs.washington.edu/courses/csep531/) | 2009/2016 |
@@ -79,7 +81,7 @@
 | Washington  | [CSE532: Complexity Theory](https://courses.cs.washington.edu/courses/cse532/)  |   |
 | Washington | [CSE533: Advanced Topics in Complexity Theory](https://courses.cs.washington.edu/courses/cse533/) |  |
 
-
+[Homotopy Type Theory](https://homotopytypetheory.org/)
 
 
 ### [Studies in Logic and the Foundations of Mathematics](https://www.elsevier.com/books/book-series/studies-in-logic-and-the-foundations-of-mathematics)
@@ -216,6 +218,8 @@
 - [LaTeX for Logicians](https://www.logicmatters.net/latex-for-logicians)
 
 [Xixi Logic](https://www.xixilogic.org/) Seminars is run by the logic group at Zhejiang University. 
+
+[A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 
 <u>The Road to Modern Logic - an interpretation</u>     |     Jose Ferreiros 
 
