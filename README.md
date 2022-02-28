@@ -66,7 +66,7 @@
 |:-----:|:----:|:----:|
 | Oregon  | [Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html) |  |
 | 复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
-| 南京大学  | <u>[Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
+| 南京大学  | [Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
 | 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
 | 南京大学  | https://sites.google.com/view/yuliang | 喻良 |
 | 臺灣大學 |[邏輯、語言與計算暑期研習營](https://flolac.iis.sinica.edu.tw/zh/2020/index.html) |[穆信成](https://scm.iis.sinica.edu.tw/ncs/) |
@@ -205,6 +205,8 @@
 
 > [现代形式语法理论](https://site.douban.com/249348/) (豆瓣小站)
 
+编程语言的基石——[Lambda calculus](https://liujiacai.net/blog/2014/10/12/lambda-calculus-introduction/) 
+
 [Combinators and the Story of Computation](https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/)
 
 [Logic Matters](https://www.logicmatters.net) :
@@ -231,7 +233,15 @@
 
 ### History: 
 
-The 1966 International Congress of Mathematicials: a micro-memoir
+T*he 1966 International Congress of Mathematicials: a micro-memoir*
+
+*Highlights of the History of the Lambda-Calculus*    -   J. B. Rosser
+
+*The Logic of Curry and Church*   -  J.P. Seldin
+
+[contributions of The Logicians. Part I. From Richard Whately to William Stanley Jevons]() - Stanley N Burris
+
+[contributions of The Logicians. Part II. From Richard Dedekind to Gerhard Gentzen]() - Stanley N Burris
 
 [‘Qinghua School of Logic’: Mathematical Logic at Qinghua University in Peking, 1926–1945](https://www.tandfonline.com/doi/full/10.1080/01445340.2021.1904663) & [汉学家眼中的“清华逻辑学派”](https://www.phil.tsinghua.edu.cn/info/1037/1926.htm)
 
