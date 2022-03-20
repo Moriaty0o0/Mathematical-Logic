@@ -65,6 +65,8 @@
 | 学校 | 课程 | 授课 |
 |:-----:|:----:|:----:|
 | Oregon  | [Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html) |  |
+|  | [The Science of Deep Specification](https://deepspec.org/main) |  |
+| Penn | [Programming Languages](https://www.cis.upenn.edu/~plclub/) |  |
 | 复旦大学 | <u>[Mathematical Logic](http://logic.fudan.edu.cn/)</u>  | ...[杨睿之](https://aplacenearby.ggr.fun)...|
 | 南京大学  | [Mathematical Logic](https://yiqinnju.github.io/course/MathLogic/MathLogic.html) |  ...[秦逸](https://yiqinnju.github.io/)...|
 | 北京大学 |  http://wangyanjing.com/teaching/ | 王彦晶|
@@ -72,7 +74,7 @@
 | 臺灣大學 |[邏輯、語言與計算暑期研習營](https://flolac.iis.sinica.edu.tw/zh/2020/index.html) |[穆信成](https://scm.iis.sinica.edu.tw/ncs/) |
 | uwaterloo.ca |Logic and Computation Intertwined |https://cs.uwaterloo.ca/~plragde/flaneries/LACI/ |
 |Brown University |[Programming and Programming Languages](https://papl.cs.brown.edu/)|Shriram Krishnamurthi|
-| |[The Curry-Howard correspondence Today](https://xavierleroy.org/CdF/2018-2019/) 2018-2019. |Xavier Leroy |
+| Collège de France, chair of software sciences, 2018-2019 |[The Curry-Howard correspondence Today](https://xavierleroy.org/CdF/2018-2019/) |Xavier Leroy |
 | CMU |Homotopy Type Theory |https://www.cs.cmu.edu/~rwh/courses/hott/ |
 | Stanford | [CS103: Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/) | 2012  |
 | Washington  | [CSE431: Introduction to Theory of Computation](http://courses.cs.washington.edu/courses/cse431/) |  |
@@ -260,7 +262,7 @@ T*he 1966 International Congress of Mathematicials: a micro-memoir*
 |<img align=left width="50" src="./images/MosesSchönfinkel.png"><img align=left width="50" src="./images/Schonfinkel.gif">  [Moses Schönfinkel](https://writings.stephenwolfram.com/2020/12/where-did-combinators-come-from-hunting-the-story-of-moses-schonfinkel/)| [1888~1942](https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)  |   |
 |<img align=left width="50" src="./images/RudolfCarnap1935.jpg"><img align=left width="50" src="./images/Carnap.jpg"/> Paul Rudolf Carnap|[1891~1970](https://en.wikipedia.org/wiki/Rudolf_Carnap)||
 |<img align=left width="50" src="./images/Post.jpg"/> [Emil Post](https://writings.stephenwolfram.com/2021/03/after-100-years-can-we-finally-crack-posts-problem-of-tag-a-story-of-computational-irreducibility-and-more/)| [1897~1954](https://en.wikipedia.org/wiki/Emil_Leon_Post)||
-|<img align=left width="50" src="./images/haskell.png"><img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)||
+|<img align=left width="50" src="./images/haskell.png"><img align=left width="50" src="./images/Curry.jpg"/> Haskell Curry |[1900~1982](https://en.wikipedia.org/wiki/Haskell_Curry)|[Essays on Combinatory Logic, Lambda Calculus and Formalism](https://archive.org/details/tohbcurryessayso00edit)|
 |<img align=left width="50" src="./images/Tarski.jpg"/> Alfred Tarski | [1901~1983](https://en.wikipedia.org/wiki/Alfred_Tarski) |<img width="50" src="https://images-na.ssl-images-amazon.com/images/I/51RWZWeqlyL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg">|
 |<img align=left width="50" src="./images/Church.jpg"/> Alonzo Church |[1903~1995](https://en.wikipedia.org/wiki/Alonzo_Church)||
 |<img align=left width="50" src="./images/Rózsa Péter.jpg"><img align=left width="50" src="./images/RózsaPéter.jpg"> Rózsa Péter|[1905 - 1977](https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter)||
